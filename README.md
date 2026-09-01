@@ -9,16 +9,6 @@ This portfolio demonstrates end-to-end Quality Assurance testing methodologies a
 
 ---
 
-## Portfolio Contents
-
-software-qa-testing-portfolio/
-├── manual-testing/
-│   └── SauceDemo_Test_Plan_and_Cases.xlsx   # Full Test Plan, 10-Case Matrix, & Bug Report
-├── api-testing/
-│   ├── ReqRes-API-Regression.postman_collection.json  # Exported Postman Test Suite
-│   └── postman-test-results.png              # Runner Execution Screenshot (7/7 Pass)
-└── README.md                                 # Project Overview & Methodology
-
 ## 1. Manual Testing — SauceDemo E-Commerce App
 
 * **Target Application:** [SauceDemo](https://www.saucedemo.com)
