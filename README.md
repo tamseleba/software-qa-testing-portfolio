@@ -49,7 +49,7 @@ This portfolio demonstrates end-to-end Quality Assurance testing methodologies a
 | **API-004** | `/users/999` | **GET** | Verify system behavior for non-existent resource ID | `404 Not Found` | **PASS** |
 
 ### Execution Proof
-![Postman Test Results](api-testing/postman-test-results.png)
+![Postman Test Results](api-testing/Postman-Test-Results.png)
 
 ---
 
